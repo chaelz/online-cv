@@ -66,7 +66,7 @@ education:
   title: Certifications
   info:
     - degree: AWS Solutions Architect - Associate
-      university: https://aws.amazon.com/verification
+      university: <a href="https://aws.amazon.com/verification">Verification</a>
       time: MW2M9Y4K5FBEQH3K
       details: |
 
@@ -134,23 +134,16 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
+    - name: AWS
+      level: 98%
+
+    - name: Azure &amp; Google Cloud
+      level: 85%
+
     - name: Python
       level: 75%
 
     - name: PowerShell
       level: 98%
 
-    - name: AWS
-      level: 98%
-
-    - name: Azure &amp; Google Cloud
-      level: 95%
-
-    - name: Ruby on Rails
-      level: 85%
-
-    - name: Sketch & Photoshop
-      level: 60%
-
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

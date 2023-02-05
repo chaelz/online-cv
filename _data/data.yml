@@ -71,7 +71,7 @@ education:
       details: |
 
 experiences:
-  title: Experiences
+  title: Experience
   info:
     - role: Professional Services Consultant
       time: 2022 - Present
@@ -137,13 +137,25 @@ skills:
     - name: AWS
       level: 98%
 
+    - name: PowerShell
+      level: 98%
+
+    - name: CMD
+      level: 98%
+
+    - name: Windows
+      level: 98%
+
+    - name: Linux
+      level: 75%
+
     - name: Azure &amp; Google Cloud
       level: 85%
 
     - name: Python
       level: 75%
 
-    - name: PowerShell
-      level: 98%
+    - name: Bash
+      level: 75%
 
 footer: >

@@ -75,7 +75,7 @@ experiences:
   info:
     - role: Professional Services Consultant
       time: 2022 - Present
-      company: MainSpring Inc, Frederick MD
+      company: <a href="https://gomainspring.com/">MainSpring Inc, Frederick MD</a>
       details: |
         - Responsible for IT infrastructure design and implementation,
         project management, and support.
@@ -88,7 +88,7 @@ experiences:
         to ensure their future success with MainSpring.
     - role: ProSuite Administrator
       time: 2018 - 2022
-      company: MainSpring Inc, Frederick MD
+      company: <a href="https://gomainspring.com/">MainSpring Inc, Frederick MD</a>
       details: |
         - Responsible for IT infrastructure implementation, help desk
         escalations, and auditing existing client infrastructure and
@@ -102,7 +102,7 @@ experiences:
 
     - role: Systems Engineer
       time: 2017 - 2018
-      company: Swift Systems, Frederick MD
+      company: <a href="https://www.swiftsystems.com/">Swift Systems, Frederick MD</a>
       details: |
         - Assisted in project management, development of client
         infrastructure, and tackling day-to-day issues.

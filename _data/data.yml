@@ -71,61 +71,59 @@ experiences:
   title: Experience
   info:
     - role: Professional Services Consultant
-      time: 2022 - Present
+      time: 2018 - Present
       company: <a href="https://gomainspring.com/">MainSpring Inc, Frederick MD</a>
       details: |
-        - Responsible for IT infrastructure design and implementation,
-        project management, and support.
-        - Successfully migrated all services located in many clients' prior
-        environments to new servers located in AWS, including the
-        migration of domain services, DNS, VPN as well as the
-        implementation of Group Policy and other best practices.
-        - Migrated clients from numerous other teams to ProSuite managed
-        services, documenting and completing onboarding related projects
-        to ensure their future success with MainSpring.
-    - role: ProSuite Administrator
-      time: 2018 - 2022
-      company: <a href="https://gomainspring.com/">MainSpring Inc, Frederick MD</a>
+        -	IT infrastructure design and implementation (cloud / on prem) reducing client downtime anywhere from 25% to 75% depending on the environment. 
+        -	Project engineering and management, managing, engineering, and consulting on up to 40 projects simultaneously. 
+        -	Interacting with clients, interpreting their needs and requirements, and representing them in the field.
+        -	Managing escalations and ensuring any issues are resolved in a timely manner.
+        -	Regularly evaluating client IT systems to ensure they meet the necessary demands.
+        -	Awarded with Employee of the Quarter for Q4 2019 and Q4 2022.
+
+    - role: CIO / CTO
+      time: 2018 - 2019
+      company: <a href="https://pupscoutsboarding.com/">Pup Scouts Boarding and Daycamp</a>
       details: |
-        - Responsible for IT infrastructure implementation, help desk
-        escalations, and auditing existing client infrastructure and
-        policies.
-        - Developed procedures and scripts to achieve a more efficient and
-        accurate auditing process across all clients, saving hours of
-        labor per audit.
-        - Maintained position on leaderboards of technicians for
-        productivity and completions, coming in at 300 completions in a
-        month, with a productivity rating at 15 computers per day.
+        -	Setting a vision for how technology will be used in the company.
+        -	Creating timelines for the development and deployment of all technological services. 
+        -	Staying on top of technology trends and developments.
+        -	Ensuring all technology practices adhere to regulatory standards.
 
     - role: Systems Engineer
       time: 2017 - 2018
       company: <a href="https://www.swiftsystems.com/">Swift Systems, Frederick MD</a>
       details: |
-        - Assisted in project management, development of client
-        infrastructure, and tackling day-to-day issues.
-        - Assisted with escalations from the service desk, and tackled
-        day-to-day issues.
+        -	Overseeing the development and installation of new networking and computing infrastructures.
+        -	Selecting the best possible solutions using knowledge of a wide range of available technologies.
+        -	Monitoring systems in the existing network to ensure there are no productivity setbacks.
+        -	Installing and configuring operating systems and application software.
+
+    - role: Field Engineer
+      time: 2015 - 2017
+      company: <a href="https://www.designdata.com/">designDATA, Rockville MD</a>
+      details: |
+        -	Designing and installing computer hardware configurations.
+        -	Installing software and networking systems.
+        -	Troubleshooting network and software issues.
+        -	Responding to general IT requests.
 
 projects:
   title: Projects
   intro: >
 
   assignments:
-    - title: AWS - Rehosting and Refactoring
+    - title: AWS Migrations
       link: "#"
-      tagline: "Assisted clients in a number of lift and shift and refactor migrations to AWS to remove the need for an on premises environment. "
+      tagline: "Migrated several clients IT infrastructure from on premises environments to cloud hosted, reducing infrastructure costs, and improving server and network availability by up to 75%. Achieved this through development of YAML files to deploy infrastructure in AWS VPC, EC2, and S3. "
 
-    - title: Azure - RDS and Azure AD
+    - title: Azure - Server Deployments
       link: "#"
-      tagline: "Deployed VPN and RDS solutions authenticating against Azure AD, as well as other VPN solutions authenticating against Active Directory. Deployed VMs using self created images."
+      tagline: "Deployed various servers and infrastructure to Microsoft Azure to move clients infrastructure away from onsite requirements and allow for client employees to work more efficiently remotely, including VPN servers, RDS and App servers, and Azure hosted workstations, as well as implementation of required networking components."
 
-    - title: Google Cloud - Environment Config and Hosting
+    - title: Scripting and Automation
       link: "#"
-      tagline: "Configured Google Cloud to host linux based PBX and wireless controllers for a local small business."
-
-    - title: DFARS Compliance
-      link: "#"
-      tagline: "Assisted clients in achieving DFARS compliance at the beginning of the enforcement in 2017."
+      tagline: "Wrote and implemented scripts to deploy best practice policies and settings, and create more efficient and reliable practices, such as a barcode scanner rather than manually writing down check in and out logs for dogs written in Python, automated PC setups, and more. See GitHub for examples. "
 
 skills:
   title: Skills &amp; Proficiency

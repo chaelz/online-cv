@@ -53,14 +53,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Highly experienced Cloud Solutions Architect with over 8 years of
-    experience in IT infrastructure design and implementation, project
-    management, and support. Proven track record of successfully migrating
-    clients to new servers and environments, including AWS migrations,
-    Office 365 migrations, and DFARS compliance assessments. Skilled in
-    Cloud Infrastructure, PowerShell, Python, Linux, Bash, and Windows
-    Server Administration. Holds AWS Solutions Architect - Associate
-    certification and Apple Certified Mac Technician.
+    Experienced and motivated IT professional with 10+ years experience within IT, and 5+ years with cloud consulting expertise. Excels in designing, deploying, and managing secure cloud solutions, utilizing proficiency in serverless architecture, automation and scripting, network security, and virtualization. Quick learner, adaptable, and able to deliver successful projects on time and within budget while communicating effectively with both technical and non-technical stakeholders.
 
 education:
   title: Certifications
@@ -68,7 +61,11 @@ education:
     - degree: AWS Solutions Architect - Associate
       university: <a href="https://aws.amazon.com/verification">Verification</a>
       time: MW2M9Y4K5FBEQH3K
-      details: |
+      details:
+    - degree: Apple Certified Macintosh Technician, 11/2014
+      university:
+      time: MW2M9Y4K5FBEQH3K
+      details:
 
 experiences:
   title: Experience
